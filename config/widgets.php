@@ -9,7 +9,7 @@
 * Description: 	Installer values for Tags for Social Igniter 
 */
 
-$config['core_widgets'][] = array(
+$config['tags_widgets'][] = array(
 	'regions'	=> array('sidebar', 'content', 'wide', 'leftbar', 'middle'),
 	'widget'	=> array(
 		'module'	=> 'tags',

@@ -10,3 +10,6 @@
 */
 
 $config['tags_path']		= 'tags/';
+$config['tags_widgets']		= TRUE;
+$config['tags_categories']	= FALSE;
+
