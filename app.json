@@ -1,0 +1,12 @@
+{
+	"app":"tags",
+	"name":"Tags",
+	"created":"2012-12-15",
+	"updated":"2012-12-15",
+	"creator":"Brennan Novak",
+	"category":"components",
+	"links":{
+		"default":"home/tags"
+	},
+	"launcher":"no"
+}
