@@ -11,6 +11,7 @@
 
 /* Settings */
 $config['tags_settings']['widgets']			= 'TRUE';
+$config['tags_settings']['categories']		= 'FALSE';
 $config['tags_settings']['enabled']			= 'TRUE';
 
 /* Tags Table */
